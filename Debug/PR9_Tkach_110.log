@@ -1,0 +1,3 @@
+﻿  PR9_Tkach_110.cpp
+D:\Программы VS\PR9_Tkach_110\PR9_Tkach_110.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PR9_Tkach_110.vcxproj -> D:\Программы VS\PR9_Tkach_110\Debug\PR9_Tkach_110.exe
